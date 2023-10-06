@@ -1,0 +1,6 @@
+framework module Pods_TensorIOTDemo {
+  umbrella header "Pods-TensorIOTDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
